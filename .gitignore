@@ -21,9 +21,4 @@ target
 #.idea/
 
 book
-
-
-
-# Added by cargo
-
-/target
+src/learn-rust/
